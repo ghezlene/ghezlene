@@ -57,8 +57,8 @@
 
 ## 📫 Let's Connect
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/ghezlene-el-hajoui-720849102/)
-* 📧 Email: [your.email@example.com](ghezlene.hajoui@gmail.com) 
+* 💼 (https://www.linkedin.com/in/ghezlene-el-hajoui-720849102/)
+* 📧 Email:(ghezlene.hajoui@gmail.com) 
 
 ---
 
