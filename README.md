@@ -1,65 +1,110 @@
-# 👋 Hello, I'm Ghezlene Hajoui
+# 👋 Hello, I'm Ghezlene El Hajoui
 
-🎯 A passionate **Web Developer** with a strong interest in **modern web technologies**, **clean code**, and **problem-solving**.
+**Software Developer | Aspiring Cloud Engineer | Technology Explorer**
+
+I'm a software developer with a background in web application development and a growing focus on **Cloud Engineering, DevOps, infrastructure automation, and modern technologies**.
+
+I enjoy understanding how systems work behind the scenes, solving technical problems, and building solutions that make complex or repetitive tasks simpler.
+
+Currently, I'm expanding my knowledge of cloud infrastructure and DevOps through hands-on experiments, personal projects, and continuous learning.
 
 ## 💻 About Me
 
-* 🌍 Based in Tunisia
-* 🧠 Always curious and committed to continuous learning
-* 💼 I work with both **frontend and backend technologies**
-* 🤝 I enjoy collaborating on meaningful and impactful projects
+- &#x20;Based in Tunisia
+- &#x20;Engineering student specializing in Cloud and Infrastructure Management
+- Experience in frontend and backend web development
+- &#x20;Currently exploring cloud infrastructure, Linux, networking, and DevOps
+- &#x20;Interested in automation and building reliable, maintainable systems
+- &#x20;Curious about emerging technologies, particularly AI and its practical applications
+- &#x20;I believe in learning by building, experimenting, troubleshooting, and documenting.
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Background
 
-### Frontend:
+### Frontend Development
 
-* **HTML / CSS / JavaScript / TypeScript**
-* **Angular** (my main frontend framework)
-* Bootstrap, Tailwind CSS
+- HTML, CSS, JavaScript, TypeScript
+- Angular
+- Bootstrap, Tailwind CSS
 
-### Backend:
+### Backend Development
 
-* **Spring Boot** (Java)
-* **Python**
-* **Keycloak & Keycloak REST API with Java**
-* **Camunda 7 (BPMN Workflow Engine)**
+- Java and Spring Boot
+- Python
+- REST APIs
+- Keycloak and Keycloak REST API
+- Camunda 7 / BPMN
 
-### Reporting:
+### Databases & Reporting
 
-* **JasperReports**
+- PostgreSQL
+- MySQL
+- Oracle Database
+- SQL Server
+- JasperReports
 
-### Databases:
+### Development & Tools
 
-* **MySQL / SQL Server / Oracle**
+- Git and GitHub
+- Docker and Docker Compose
+- Postman
+- VS Code
+- JSON and JWT authentication
+- Linux and Windows command line
 
-### Others:
+## ☁️ Current Learning Focus: Cloud Engineering
 
-* Git & GitHub
-* REST APIs
-* JSON & JWT authentication
-* Postman, VS Code
-* **Linux and Windows Command Line**
-* Docker
+I'm developing practical knowledge across the technologies that power modern infrastructure and application delivery.
 
-## 📊 I'm Also Exploring
+My learning roadmap includes:
 
-* 🧠 **Machine Learning & Reinforcement Learning**
-* 📈 Applying ML to real-world web-based applications
+- **Linux Administration:** System management, permissions, processes, services, and Bash.
+- **Computer Networking:** TCP/IP, DNS, subnetting, routing, and network troubleshooting.
+- **Containerization:** Docker, images, networking, volumes, and orchestration.
+- **Cloud Infrastructure:** AWS services, IAM, networking, and cloud architecture.
+- **DevOps & Automation:** CI/CD pipelines, Terraform, and Ansible.
+- **Cloud-Native Technologies:** Kubernetes and container orchestration.
+- **Observability:** Monitoring, logging, metrics, and alerting.
+- **Cloud Security & Reliability:** Infrastructure security, high availability, and disaster recovery.
+- **Platform Engineering:** Developer experience, reusable infrastructure, and self-service platforms.
 
-## 📂 Featured Projects (Coming Soon)
+I'm documenting this journey through independent hands-on projects and a central learning repository.
 
-> I'm currently building and organizing projects to showcase my skills — stay tuned!
+## 🤖 AI & Machine Learning
 
-## ✨ Fun Facts
+I also have an interest in artificial intelligence and machine learning.
 
-* 🎓 I'm self-motivated and love learning by building
-* 📚 I enjoy helping others understand complex concepts
+I've experimented with Hugging Face implementations and I'm interested in exploring:
+
+- Pre-trained AI models and their integration.
+- Machine learning applications.
+- Generative AI and large language models.
+- Practical applications of AI in software systems.
+
+My goal is to develop practical AI literacy and understand how these technologies can complement modern software and infrastructure.
+
+## 📂 Explore My GitHub
+
+I'm organizing my repositories into technical collections to make my projects and learning journey easier to explore.
+
+- ☁️ **Cloud Engineering:** Infrastructure, DevOps, automation, and cloud-native projects.
+- 🤖 **AI & Machine Learning Lab:** AI experiments, model implementations, and explorations.
+- 💻 **Software Development:** Web applications, backend services, and development projects.
+
+## 🎯 My Engineering Philosophy
+
+- Understand how things work, not just how to use them.
+- Build solutions instead of repeatedly performing manual tasks.
+- Experiment, break things, troubleshoot, and learn from failures.
+- Prioritize practical knowledge and reproducible implementations.
+- Keep learning as technologies and engineering practices evolve.
 
 ## 📫 Let's Connect
 
-* 💼 (https://www.linkedin.com/in/ghezlene-el-hajoui-720849102/)
-* 📧 Email:(ghezlene.hajoui@gmail.com) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/ghezlene-el-hajoui-720849102/)
+- 📧 [Email](mailto\:ghezlene.hajoui@gmail.com)
 
 ---
 
-*Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaboration or just a friendly chat.*
+*Always learning. Always building. Always curious about what's happening behind the scenes.*
+
+Thanks for visiting my profile!&#x20;
