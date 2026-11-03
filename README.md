@@ -89,7 +89,7 @@ I'm organizing my repositories into technical collections to make my projects an
 - ☁️ [Cloud Engineering](https://github.com/stars/ghezlene/lists/cloud-engineering) Infrastructure, DevOps, automation, and cloud-native projects.
 - 🤖 [AI & Machine Learning](https://github.com/stars/ghezlene/lists/ai-machine-learning) AI experiments, model implementations, and explorations.
 - 💻 [Software Development](https://github.com/stars/ghezlene/lists/software-development) Web applications, backend services, and development projects.
-- [Automation & DevOps](https://github.com/stars/ghezlene/lists/automation-devops) Deployment, scripting, and infrastructure automation.
+- ⚙️ [Automation & DevOps](https://github.com/stars/ghezlene/lists/automation-devops) Deployment, scripting, and infrastructure automation.
 
 ## 🎯 My Engineering Philosophy
 
