@@ -86,9 +86,10 @@ My goal is to develop practical AI literacy and understand how these technologie
 
 I'm organizing my repositories into technical collections to make my projects and learning journey easier to explore.
 
-- ☁️ **Cloud Engineering:** Infrastructure, DevOps, automation, and cloud-native projects.
-- 🤖 **AI & Machine Learning Lab:** AI experiments, model implementations, and explorations.
-- 💻 **Software Development:** Web applications, backend services, and development projects.
+- ☁️ [Cloud Engineering](https://github.com/stars/ghezlene/lists/cloud-engineering) Infrastructure, DevOps, automation, and cloud-native projects.
+- 🤖 [AI & Machine Learning](https://github.com/stars/ghezlene/lists/ai-machine-learning) AI experiments, model implementations, and explorations.
+- 💻 [Software Development](https://github.com/stars/ghezlene/lists/software-development) Web applications, backend services, and development projects.
+- [Automation & DevOps](https://github.com/stars/ghezlene/lists/automation-devops) Deployment, scripting, and infrastructure automation.
 
 ## 🎯 My Engineering Philosophy
 
@@ -108,3 +109,5 @@ I'm organizing my repositories into technical collections to make my projects an
 *Always learning. Always building. Always curious about what's happening behind the scenes.*
 
 Thanks for visiting my profile!&#x20;
+
+[⭐ Explore my curated repositories and collections](https://github.com/ghezlene?tab=stars)
